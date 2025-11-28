@@ -1,9 +1,2 @@
 #!/bin/bash
-# Display the third line of iacta
-
-if [ ! -f "iacta" ]; then
-  echo "iacta: No such file or directory" >&2
-  exit 1
-fi
-
-awk 'NR==3 { print; exit }' iacta
+head -n 3 iacta | tail -n 1
