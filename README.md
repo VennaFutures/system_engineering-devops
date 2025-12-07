@@ -1,1 +1,1 @@
-# system_engineering-devops
+System Engineering - Shell Variables and Expansions exercises

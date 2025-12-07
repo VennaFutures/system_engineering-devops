@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 venna venna 4096 Nov 30 10:05 .
+drwxr-xr-x 6 venna venna 4096 Nov 26 17:34 ..
+-rwxr-xr-x 1 venna venna   32 Nov 26 17:51 0-hello_world
+-rwxr-xr-x 1 venna venna   28 Nov 26 18:25 1-confused_smiley
+-rwxr-xr-x 1 venna venna   28 Nov 26 18:30 2-hellofile
+-rwxr-xr-x 1 venna venna   39 Nov 26 18:43 3-twofiles
+-rwxr-xr-x 1 venna venna   35 Nov 26 18:50 4-lastlines
+-rwxr-xr-x 1 venna venna   35 Nov 26 18:55 5-firstlines
+-rwxr-xr-x 1 venna venna   40 Nov 28 15:03 6-third_line
+-rwxr-xr-x 1 venna venna   79 Nov 28 17:32 7-file
+-rwxr-xr-x 1 venna venna   36 Nov 30 10:04 8-cwd_state
+-rw-r--r-- 1 venna venna    1 Nov 26 18:25 README.md
+-rw-r--r-- 1 venna venna   51 Nov 28 14:53 iacta
+-rw-r--r-- 1 venna venna    0 Nov 30 10:05 ls_cwd_content
