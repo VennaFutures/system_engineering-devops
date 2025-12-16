@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that lists all running processes showing numeric UID and full command
+# A Bash script that lists the UID and command of the current script process
 
-ps -eo uid,cmd --forest
+ps -o uid,cmd= -p $$
