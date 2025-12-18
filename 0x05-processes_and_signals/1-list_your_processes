@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # A Bash script that lists the UID and command of the current script process
 
-ps -o uid,cmd= -p $$
+ps -ef --forest
